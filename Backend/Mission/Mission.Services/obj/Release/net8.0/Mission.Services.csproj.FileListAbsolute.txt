@@ -1,0 +1,17 @@
+A:\project\Mission\Mission\Mission.Services\bin\Release\net8.0\Mission.Services.deps.json
+A:\project\Mission\Mission\Mission.Services\bin\Release\net8.0\Mission.Services.dll
+A:\project\Mission\Mission\Mission.Services\bin\Release\net8.0\Mission.Services.pdb
+A:\project\Mission\Mission\Mission.Services\bin\Release\net8.0\Mission.Entities.dll
+A:\project\Mission\Mission\Mission.Services\bin\Release\net8.0\Mission.Repositories.dll
+A:\project\Mission\Mission\Mission.Services\bin\Release\net8.0\Mission.Entities.pdb
+A:\project\Mission\Mission\Mission.Services\bin\Release\net8.0\Mission.Repositories.pdb
+A:\project\Mission\Mission\Mission.Services\obj\Release\net8.0\Mission.Services.csproj.AssemblyReference.cache
+A:\project\Mission\Mission\Mission.Services\obj\Release\net8.0\Mission.Services.GeneratedMSBuildEditorConfig.editorconfig
+A:\project\Mission\Mission\Mission.Services\obj\Release\net8.0\Mission.Services.AssemblyInfoInputs.cache
+A:\project\Mission\Mission\Mission.Services\obj\Release\net8.0\Mission.Services.AssemblyInfo.cs
+A:\project\Mission\Mission\Mission.Services\obj\Release\net8.0\Mission.Services.csproj.CoreCompileInputs.cache
+A:\project\Mission\Mission\Mission.Services\obj\Release\net8.0\Mission..F9A2C6AE.Up2Date
+A:\project\Mission\Mission\Mission.Services\obj\Release\net8.0\Mission.Services.dll
+A:\project\Mission\Mission\Mission.Services\obj\Release\net8.0\refint\Mission.Services.dll
+A:\project\Mission\Mission\Mission.Services\obj\Release\net8.0\Mission.Services.pdb
+A:\project\Mission\Mission\Mission.Services\obj\Release\net8.0\ref\Mission.Services.dll

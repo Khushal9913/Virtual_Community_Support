@@ -1,0 +1,28 @@
+A:\project\Mission\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.deps.json
+A:\project\Mission\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.runtimeconfig.json
+A:\project\Mission\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.dll
+A:\project\Mission\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.pdb
+A:\project\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+A:\project\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+A:\project\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+A:\project\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfo.cs
+A:\project\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+A:\project\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.dll
+A:\project\Mission\Mission\Mission.Entities\obj\Debug\net8.0\refint\Mission.Entities.dll
+A:\project\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.pdb
+A:\project\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.genruntimeconfig.cache
+A:\project\Mission\Mission\Mission.Entities\obj\Debug\net8.0\ref\Mission.Entities.dll
+C:\Users\Kushal\source\repos\Mission (2)\Mission\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.deps.json
+C:\Users\Kushal\source\repos\Mission (2)\Mission\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.runtimeconfig.json
+C:\Users\Kushal\source\repos\Mission (2)\Mission\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.dll
+C:\Users\Kushal\source\repos\Mission (2)\Mission\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Users\Kushal\source\repos\Mission (2)\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+C:\Users\Kushal\source\repos\Mission (2)\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kushal\source\repos\Mission (2)\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+C:\Users\Kushal\source\repos\Mission (2)\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfo.cs
+C:\Users\Kushal\source\repos\Mission (2)\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Kushal\source\repos\Mission (2)\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.dll
+C:\Users\Kushal\source\repos\Mission (2)\Mission\Mission\Mission.Entities\obj\Debug\net8.0\refint\Mission.Entities.dll
+C:\Users\Kushal\source\repos\Mission (2)\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.pdb
+C:\Users\Kushal\source\repos\Mission (2)\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.genruntimeconfig.cache
+C:\Users\Kushal\source\repos\Mission (2)\Mission\Mission\Mission.Entities\obj\Debug\net8.0\ref\Mission.Entities.dll
