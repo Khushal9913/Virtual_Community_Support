@@ -80,5 +80,3 @@ cd "../../Backend/Mission"
 📬 Feel free to open issues, suggest improvements, or contribute to this project!
 
 ---
-
-Would you like this converted into a **PDF**, or do you want a downloadable `.md` file version as well?
