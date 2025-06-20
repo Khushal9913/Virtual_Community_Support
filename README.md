@@ -50,7 +50,6 @@ Navigate to the backend directory:
 
 cd "../../Backend/Mission"
 
-(Instructions for setting up backend based on your stack)
 
 
 
