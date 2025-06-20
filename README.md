@@ -6,7 +6,7 @@
 
 ## 📁 Project Structure
 
-Virtual-Community-Support/ │ ├── Backend/Mission/         → 🛠️ Backend logic and APIs ├── Frontend/Angular Code/   → 💻 Angular frontend code ├── .gitattributes           → ⚙️ Git settings ├── README.md                → 📘 Project documentation └── README                   → (Optional plain text readme)
+Virtual-Community-Support/ │ ├── Backend/Mission/         → 🛠️ Backend logic and APIs ├── Frontend/Angular Code/   → 💻 Angular frontend code ├── .gitattributes           → ⚙️ Git settings ├── README.md                → 📘 Project documentation └── README 
 
 ---
 
